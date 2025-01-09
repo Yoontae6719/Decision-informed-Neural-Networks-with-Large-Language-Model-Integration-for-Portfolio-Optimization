@@ -1,6 +1,6 @@
 # DINN (Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization)
 
-This is the origin Pytorch implementation of SimStock in the following paper: Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization
+This is the origin Pytorch implementation of DINN in the following paper: Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization.
  
 🚩**News**(Jan 01, 2025)  We will release DINN.
 
