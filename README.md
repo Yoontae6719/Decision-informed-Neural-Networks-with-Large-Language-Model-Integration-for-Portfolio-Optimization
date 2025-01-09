@@ -12,7 +12,7 @@ This is the origin Pytorch implementation of SimStock in the following paper: De
 pip install -r requirements.txt
 ```
 
-# How to run?
+### How to run?
 ```git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
 bash ./runfile/SNP.sh # Get model weight
 bash ./runfile/DOW.sh # Get model weight
@@ -21,7 +21,11 @@ python anaysis.py     # Senstivity analysis
 python anaysis_dow.py # Senstivity analysis
 ```
 
-## What is DINN?
+### Dataset
+if you request the dataset, we can provide. or you can download via WRDS.
+
+
+### What is DINN?
 will be write
 
 
@@ -29,7 +33,7 @@ will be write
 
 
 
-## 📚 Citation
+### 📚 Citation
 
 ```bibtex
 will be write
