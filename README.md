@@ -14,10 +14,16 @@ pip install -r requirements.txt
 
 ### How to run?
 ```git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
-bash ./runfile/SNP.sh # Get model weight
-bash ./runfile/DOW.sh # Get model weight
+bash ./runfile/SNP.sh # Get model weight (Balanced settings)
+bash ./runfile/DOW.sh # Get model weight (Balanced settings)
 
-python anaysis.py     # Senstivity analysis
+bash ./runfile/SNP_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
+bash ./runfile/DOW_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
+
+bash ./runfile/SNP_Lambda.sh # Get model weight (loss function weight)
+bash ./runfile/DOW_Lambda.sh # Get model weight (loss function weight)
+
+python anaysis.py     # Senstivity analysis 
 python anaysis_dow.py # Senstivity analysis
 ```
 
