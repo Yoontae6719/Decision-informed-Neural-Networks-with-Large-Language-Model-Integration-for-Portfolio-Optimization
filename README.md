@@ -10,9 +10,10 @@ This is the origin Pytorch implementation of SimStock in the following paper: De
 ```bash
 # Simple installation packages
 pip install -r requirements.txt
+```
 
 # How to run?
-git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
+```git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
 bash ./runfile/SNP.sh # Get model weight
 bash ./runfile/DOW.sh # Get model weight
 
