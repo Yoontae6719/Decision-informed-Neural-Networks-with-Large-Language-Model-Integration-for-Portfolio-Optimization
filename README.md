@@ -32,7 +32,7 @@ if you request the dataset, we can provide. or you can download via WRDS.
 
 
 ### What is DINN?
-will be write
+will be written
 
 
 
@@ -45,4 +45,4 @@ will be write
 will be write
 ```
 
-Built with ❤️ by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Yoontae Hwang
+Built by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Yoontae Hwang
