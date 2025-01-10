@@ -20,9 +20,6 @@ bash ./runfile/DOW.sh # Get model weight (Balanced settings)
 bash ./runfile/SNP_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
 bash ./runfile/DOW_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
 
-bash ./runfile/SNP_Lambda.sh # Get model weight (loss function weight)
-bash ./runfile/DOW_Lambda.sh # Get model weight (loss function weight)
-
 python anaysis.py     # Senstivity analysis 
 python anaysis_dow.py # Senstivity analysis
 ```
