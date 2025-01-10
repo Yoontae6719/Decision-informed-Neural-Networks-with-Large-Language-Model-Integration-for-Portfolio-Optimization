@@ -2,7 +2,7 @@
 
 This is the origin Pytorch implementation of DINN in the following paper: Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization.
  
-🚩**News**(Jan 01, 2025)  We will release DINN.
+🚩**News**(Jan 01, 2025)  We will release DINN. All the .sh files are scheduled to be updated within January. Currently, only two of them have been updated. You can run them now to check.
 
 
 ### Installation
