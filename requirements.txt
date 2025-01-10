@@ -10,3 +10,5 @@ peft==0.4.0
 transformers==4.31.0
 deepspeed==0.14.0
 sentencepiece==0.2.0
+cvxpy==1.6.0
+cvxpylayers==0.1.9
