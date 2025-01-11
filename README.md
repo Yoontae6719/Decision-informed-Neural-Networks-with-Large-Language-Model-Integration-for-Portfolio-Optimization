@@ -2,8 +2,7 @@
 
 This is the origin Pytorch implementation of DINN in the following paper: Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization.
  
-🚩**News**(Jan 01, 2025)  We will release DINN. All the .sh files are scheduled to be updated within January. Currently, only two of them have been updated. You can run them now to check.
-
+🚩**News**(Jan 11, 2025)  We have released DINN.
 
 ### Installation
 
@@ -17,8 +16,8 @@ pip install -r requirements.txt
 bash ./runfile/SNP.sh # Get model weight (Balanced settings)
 bash ./runfile/DOW.sh # Get model weight (Balanced settings)
 
-bash ./runfile/SNP_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
-bash ./runfile/DOW_ALL.sh # Get model weight (highly aggressive, aggressive, conservative and highly conservative settings)
+bash ./runfile/SNP_ALL.sh # Get model weight (highly aggressive, aggressive, Balanced, conservative and highly conservative settings)
+bash ./runfile/DOW_ALL.sh # Get model weight (highly aggressive, aggressive, Balanced, conservative and highly conservative settings)
 
 python anaysis.py     # Senstivity analysis 
 python anaysis_dow.py # Senstivity analysis
