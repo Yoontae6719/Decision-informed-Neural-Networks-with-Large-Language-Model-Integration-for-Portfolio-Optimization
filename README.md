@@ -24,15 +24,17 @@ python anaysis_dow.py # Senstivity analysis
 ```
 
 ### Dataset
-if you request the dataset, we can provide. or you can download via WRDS.
-
+- You can download via WRDS. (Check 0_Get_dataset_using_WRDS.ipynb)
+- We added the macro variable (foucsd on Composite Leading Indicators Index) such as 
+    - ICSA : https://fred.stlouisfed.org/series/ICSA
+    - UMCSENT : https://fred.stlouisfed.org/series/UMCSENT
+    - HSN1F : https://fred.stlouisfed.org/series/HSN1F
+    - UNRATE : https://fred.stlouisfed.org/series/UNRATE
+    - HIgh-Yield Bond Spread : https://fred.stlouisfed.org/series/BAMLH0A0HYM2
+ 
 
 ### What is DINN?
 will be written
-
-
-
-
 
 
 ### 📚 Citation
