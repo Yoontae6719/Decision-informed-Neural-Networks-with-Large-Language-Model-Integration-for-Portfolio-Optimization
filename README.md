@@ -42,5 +42,10 @@ will be written
 ```bibtex
 will be write
 ```
+### Acknowledgement
+- [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://github.com/KimMeen/Time-LLM/tree/main)
+- [thuml_LTS](https://github.com/thuml/Large-Time-Series-Model)
+- [thuml_TS](https://github.com/thuml/Time-Series-Library)
+- [Chronos: Pretrained Models for Probabilistic Time Series Forecasting](https://github.com/amazon-science/chronos-forecasting)
 
 Built by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Yoontae Hwang
