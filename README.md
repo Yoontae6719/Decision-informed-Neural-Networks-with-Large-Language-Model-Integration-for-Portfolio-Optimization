@@ -31,8 +31,9 @@ python anaysis_dow.py # Senstivity analysis
     - HSN1F : https://fred.stlouisfed.org/series/HSN1F
     - UNRATE : https://fred.stlouisfed.org/series/UNRATE
     - HIgh-Yield Bond Spread : https://fred.stlouisfed.org/series/BAMLH0A0HYM2
- 
-
+ - Note that : If you are an institution with a WRDS subscription, we can provide you with the data upon request.
+    - Yoontae.Hwang@eng.ox.ac.uk
+   
 ### What is DINN?
 will be written
 
