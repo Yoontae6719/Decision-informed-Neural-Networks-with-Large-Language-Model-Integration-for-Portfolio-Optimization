@@ -3,6 +3,7 @@
 This is the origin Pytorch implementation of DINN in the following paper: Decision-informed Neural Networks with Large Language Model Integration for Portfolio Optimization.
  
 🚩**News**(Jan 16, 2025)  If there is room on the GPU, I plan to improve certain parts of the model. We will reflect the updates as soon as they are available.
+
 🚩**News**(Jan 11, 2025)  We have released DINN.
 
 ### Installation
@@ -13,7 +14,11 @@ pip install -r requirements.txt
 ```
 
 ### How to run?
-```git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
+```
+Note that : Depending on the batch size, the optimal performance requires a 96GB GPU based on the current version. 
+
+
+git clone https://github.com/Yoontae6719/Decision-informed-Neural-Networks-with-Large-Language-Model-Integration-for-Portfolio-Optimization.git
 bash ./runfile/SNP.sh # Get model weight (Balanced settings)
 bash ./runfile/DOW.sh # Get model weight (Balanced settings)
 
