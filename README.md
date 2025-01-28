@@ -29,6 +29,7 @@ python anaysis_dow.py # Senstivity analysis
 
 ### Dataset
 - You can download via WRDS. (Check 0_Get_dataset_using_WRDS.ipynb)
+    - You need to WRDS account for download dataset !!
 - We added the macro variable (foucsd on Composite Leading Indicators Index) such as 
     - ICSA : https://fred.stlouisfed.org/series/ICSA
     - UMCSENT : https://fred.stlouisfed.org/series/UMCSENT
