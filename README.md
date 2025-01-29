@@ -62,4 +62,4 @@ Mathmatical proof, Writing – original draft, Writing – review & editing, Dat
 - [thuml_TS](https://github.com/thuml/Time-Series-Library)
 - [Chronos: Pretrained Models for Probabilistic Time Series Forecasting](https://github.com/amazon-science/chronos-forecasting)
 
-Built by [Yoontae Hwang](https://yoontae6719.github.io/) - Copyright (c) 2025 Yoontae Hwang
+Built by [Anonymous](https://yoontae6719.github.io/) - Copyright (c) 2025 Anonymous
