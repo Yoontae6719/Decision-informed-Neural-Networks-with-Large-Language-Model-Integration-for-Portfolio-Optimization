@@ -49,12 +49,6 @@ This paper tackles the persistent disconnect between predictive modeling and act
 will be write
 ```
 
-### 📚 CRediT authorship contribution statement
-
-```
-Mathmatical proof, Writing – original draft, Writing – review & editing, Data curation, Formal analysis, Visualization, Software, Data curation, Conceptualization, Funding acquisition
-```
-
 
 ### Acknowledgement
 - [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://github.com/KimMeen/Time-LLM/tree/main)
