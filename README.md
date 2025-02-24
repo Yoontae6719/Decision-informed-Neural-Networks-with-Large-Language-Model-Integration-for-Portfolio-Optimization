@@ -37,7 +37,7 @@ python anaysis_dow.py # Senstivity analysis
     - UNRATE : https://fred.stlouisfed.org/series/UNRATE
     - HIgh-Yield Bond Spread : https://fred.stlouisfed.org/series/BAMLH0A0HYM2
  - Note that : If you have any questions, please send them to the email address below.
-    - Will be write  
+    - Will be writen  
    
 ### What is DINN?
 This paper tackles the persistent disconnect between predictive modeling and actual decision quality in portfolio optimization. Although recent developments in deep learning and large language models (LLMs) have shown promise in forecasting financial time series, traditional approaches still treat prediction and optimization as separate tasks, often leading to suboptimal allocations when small forecast errors are magnified by downstream decision-making. To address this, we propose a \textit{decision-informed neural network} (DINN) framework that integrates LLM-derived embeddings directly into the portfolio optimization process via a differentiable, convex optimization layer. Our approach attends selectively to cross-sectional relationships, temporal trends, and macroeconomic factors, yielding a richer feature space without overwhelming the model with noise. Crucially, DINN employs a hybrid loss function—balancing prediction accuracy with a decision-focused objective—that enables end-to-end training. Extensive experiments on equity datasets (S\&P 100 and DOW 30) reveal that DINN significantly improves both return generation and risk-adjusted performance compared to conventional deep learning baselines. Prob-sparse attention mechanisms identify a subset of “high-impact” assets, enabling robust allocations under diverse market regimes. Also, gradient-based sensitivity analyses further show that DINN assigns greater learning capacity to assets most critical for decision making, thus mitigating the impact of prediction errors on portfolio performance. These findings emphasize the importance of embedding financial decision-making objectives within model training rather than merely optimizing for statistical accuracy, and represent the potential of decision-focused learning frameworks in advancing robust, context-aware portfolio management.
@@ -46,7 +46,7 @@ This paper tackles the persistent disconnect between predictive modeling and act
 ### 📚 Citation
 
 ```bibtex
-will be write
+will be writen
 ```
 
 
